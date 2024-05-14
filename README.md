@@ -17,7 +17,7 @@ Sumário
   - Aprendendo com erros
 
 # Introdução
-[IMAGEM OVINE]
+
 Ovine é uma engine de criação e reprodução de Objetos virtuais de aprendizagem, sua ideia principal é facilitar a criação de OVA por professores leigos em programação. <br>
 A engine utiliza o motor de jogos unity como sua plataforma e foi criada com plugins e pacotes multiplataforma, facilitando a portabilidade futura para android e web. <br> 
 O intuito da ferramenta é criar uma ponte entre programadores e professores que desejam criar seus OVA para uso dentro de sala de aula. <br>
@@ -284,3 +284,4 @@ public class ComportamentoComErro: OvaBehaviour{
     }
 }
 ```
+A elaborar
